@@ -1,0 +1,459 @@
+Age,College,Height,Name,Number,Position,Team,Weight,_id
+25.0,Texas,6-2,Avery Bradley,0.0,PG,Boston Celtics,180.0,642560054efc1d753d15a96e
+25.0,Marquette,6-6,Jae Crowder,99.0,SF,Boston Celtics,235.0,642560054efc1d753d15a96f
+27.0,Boston University,6-5,John Holland,30.0,SG,Boston Celtics,205.0,642560054efc1d753d15a970
+22.0,Georgia State,6-5,R.J. Hunter,28.0,SG,Boston Celtics,185.0,642560054efc1d753d15a971
+29.0,,6-10,Jonas Jerebko,8.0,PF,Boston Celtics,231.0,642560054efc1d753d15a972
+29.0,,6-9,Amir Johnson,90.0,PF,Boston Celtics,240.0,642560054efc1d753d15a973
+21.0,LSU,6-8,Jordan Mickey,55.0,PF,Boston Celtics,235.0,642560054efc1d753d15a974
+25.0,Gonzaga,7-0,Kelly Olynyk,41.0,C,Boston Celtics,238.0,642560054efc1d753d15a975
+22.0,Louisville,6-2,Terry Rozier,12.0,PG,Boston Celtics,190.0,642560054efc1d753d15a976
+22.0,Oklahoma State,6-4,Marcus Smart,36.0,PG,Boston Celtics,220.0,642560054efc1d753d15a977
+24.0,Ohio State,6-9,Jared Sullinger,7.0,C,Boston Celtics,260.0,642560054efc1d753d15a978
+27.0,Washington,5-9,Isaiah Thomas,4.0,PG,Boston Celtics,185.0,642560054efc1d753d15a979
+27.0,Ohio State,6-7,Evan Turner,11.0,SG,Boston Celtics,220.0,642560054efc1d753d15a97a
+20.0,Kentucky,6-6,James Young,13.0,SG,Boston Celtics,215.0,642560054efc1d753d15a97b
+26.0,North Carolina,7-0,Tyler Zeller,44.0,C,Boston Celtics,253.0,642560054efc1d753d15a97c
+27.0,,6-8,Bojan Bogdanovic,44.0,SG,Brooklyn Nets,216.0,642560054efc1d753d15a97d
+24.0,Oklahoma State,6-3,Markel Brown,22.0,SG,Brooklyn Nets,190.0,642560054efc1d753d15a97e
+28.0,North Carolina,6-4,Wayne Ellington,21.0,SG,Brooklyn Nets,200.0,642560054efc1d753d15a97f
+21.0,Arizona,6-7,Rondae Hollis-Jefferson,24.0,SG,Brooklyn Nets,220.0,642560054efc1d753d15a980
+32.0,Georgia Tech,6-3,Jarrett Jack,2.0,PG,Brooklyn Nets,200.0,642560054efc1d753d15a981
+22.0,,6-7,Sergey Karasev,10.0,SG,Brooklyn Nets,208.0,642560054efc1d753d15a982
+26.0,Cincinnati,6-4,Sean Kilpatrick,6.0,SG,Brooklyn Nets,219.0,642560054efc1d753d15a983
+23.0,Miami (FL),5-11,Shane Larkin,0.0,PG,Brooklyn Nets,175.0,642560054efc1d753d15a984
+28.0,Stanford,7-0,Brook Lopez,11.0,C,Brooklyn Nets,275.0,642560054efc1d753d15a985
+21.0,Syracuse,6-11,Chris McCullough,1.0,PF,Brooklyn Nets,200.0,642560054efc1d753d15a986
+26.0,Saint Louis,6-10,Willie Reed,33.0,PF,Brooklyn Nets,220.0,642560054efc1d753d15a987
+25.0,Kansas,6-10,Thomas Robinson,41.0,PF,Brooklyn Nets,237.0,642560054efc1d753d15a988
+26.0,Georgetown,6-10,Henry Sims,14.0,C,Brooklyn Nets,248.0,642560054efc1d753d15a989
+28.0,Texas A&M,6-3,Donald Sloan,15.0,PG,Brooklyn Nets,205.0,642560054efc1d753d15a98a
+27.0,Georgia Tech,6-8,Thaddeus Young,30.0,PF,Brooklyn Nets,221.0,642560054efc1d753d15a98b
+30.0,UCLA,6-5,Arron Afflalo,4.0,SG,New York Knicks,210.0,642560054efc1d753d15a98c
+33.0,UNLV,6-9,Lou Amundson,17.0,PF,New York Knicks,220.0,642560054efc1d753d15a98d
+23.0,,6-7,Thanasis Antetokounmpo,43.0,SF,New York Knicks,205.0,642560054efc1d753d15a98e
+32.0,Syracuse,6-8,Carmelo Anthony,7.0,SF,New York Knicks,240.0,642560054efc1d753d15a98f
+34.0,,6-3,Jose Calderon,3.0,PG,New York Knicks,200.0,642560054efc1d753d15a990
+25.0,Wichita State,6-8,Cleanthony Early,11.0,SF,New York Knicks,210.0,642560054efc1d753d15a991
+24.0,"Saint Joseph's",6-2,Langston Galloway,2.0,SG,New York Knicks,200.0,642560054efc1d753d15a992
+23.0,Notre Dame,6-4,Jerian Grant,13.0,PG,New York Knicks,195.0,642560054efc1d753d15a993
+28.0,Stanford,7-0,Robin Lopez,8.0,C,New York Knicks,255.0,642560054efc1d753d15a994
+26.0,Norfolk State,6-10,"Kyle O'Quinn",9.0,PF,New York Knicks,250.0,642560054efc1d753d15a995
+20.0,,7-3,Kristaps Porzingis,6.0,PF,New York Knicks,240.0,642560054efc1d753d15a996
+26.0,,6-10,Kevin Seraphin,1.0,C,New York Knicks,278.0,642560054efc1d753d15a997
+28.0,Duke,6-8,Lance Thomas,42.0,SF,New York Knicks,235.0,642560054efc1d753d15a998
+32.0,,6-7,Sasha Vujacic,18.0,SG,New York Knicks,195.0,642560054efc1d753d15a999
+25.0,Arizona,6-8,Derrick Williams,23.0,PF,New York Knicks,240.0,642560054efc1d753d15a99a
+23.0,Washington,6-6,Tony Wroten,5.0,SG,New York Knicks,205.0,642560054efc1d753d15a99b
+37.0,Duke,6-9,Elton Brand,42.0,PF,Philadelphia 76ers,254.0,642560054efc1d753d15a99c
+25.0,Murray State,6-0,Isaiah Canaan,0.0,PG,Philadelphia 76ers,201.0,642560054efc1d753d15a99d
+25.0,Tennessee State,6-9,Robert Covington,33.0,SF,Philadelphia 76ers,215.0,642560054efc1d753d15a99e
+22.0,Kansas,7-0,Joel Embiid,21.0,C,Philadelphia 76ers,250.0,642560054efc1d753d15a99f
+22.0,Syracuse,6-8,Jerami Grant,39.0,SF,Philadelphia 76ers,210.0,642560054efc1d753d15a9a0
+22.0,Bowling Green,6-10,Richaun Holmes,22.0,PF,Philadelphia 76ers,245.0,642560054efc1d753d15a9a1
+32.0,Purdue,6-9,Carl Landry,7.0,PF,Philadelphia 76ers,248.0,642560054efc1d753d15a9a2
+24.0,North Carolina,6-4,Kendall Marshall,5.0,PG,Philadelphia 76ers,200.0,642560054efc1d753d15a9a3
+24.0,Arizona,6-2,T.J. McConnell,12.0,PG,Philadelphia 76ers,200.0,642560054efc1d753d15a9a4
+22.0,Kentucky,6-11,Nerlens Noel,4.0,PF,Philadelphia 76ers,228.0,642560054efc1d753d15a9a5
+20.0,Duke,6-11,Jahlil Okafor,8.0,C,Philadelphia 76ers,275.0,642560054efc1d753d15a9a6
+27.0,Wake Forest,6-0,Ish Smith,1.0,PG,Philadelphia 76ers,175.0,642560054efc1d753d15a9a7
+22.0,Michigan,6-6,Nik Stauskas,11.0,SG,Philadelphia 76ers,205.0,642560054efc1d753d15a9a8
+25.0,Georgetown,6-8,Hollis Thompson,31.0,SG,Philadelphia 76ers,206.0,642560054efc1d753d15a9a9
+20.0,UNLV,6-11,Christian Wood,35.0,PF,Philadelphia 76ers,220.0,642560054efc1d753d15a9aa
+23.0,,6-9,Bismack Biyombo,8.0,C,Toronto Raptors,245.0,642560054efc1d753d15a9ab
+20.0,,6-9,Bruno Caboclo,20.0,SF,Toronto Raptors,205.0,642560054efc1d753d15a9ac
+29.0,Missouri,6-8,DeMarre Carroll,5.0,SF,Toronto Raptors,212.0,642560054efc1d753d15a9ad
+26.0,USC,6-7,DeMar DeRozan,10.0,SG,Toronto Raptors,220.0,642560054efc1d753d15a9ae
+29.0,Wake Forest,6-9,James Johnson,3.0,PF,Toronto Raptors,250.0,642560054efc1d753d15a9af
+24.0,Texas,6-3,Cory Joseph,6.0,PG,Toronto Raptors,190.0,642560054efc1d753d15a9b0
+30.0,Villanova,6-0,Kyle Lowry,7.0,PG,Toronto Raptors,205.0,642560054efc1d753d15a9b1
+23.0,,7-0,Lucas Nogueira,92.0,C,Toronto Raptors,220.0,642560054efc1d753d15a9b2
+27.0,Kentucky,6-9,Patrick Patterson,54.0,PF,Toronto Raptors,235.0,642560054efc1d753d15a9b3
+23.0,UCLA,6-4,Norman Powell,24.0,SG,Toronto Raptors,215.0,642560054efc1d753d15a9b4
+25.0,Washington,6-7,Terrence Ross,31.0,SF,Toronto Raptors,195.0,642560054efc1d753d15a9b5
+36.0,,6-9,Luis Scola,4.0,PF,Toronto Raptors,240.0,642560054efc1d753d15a9b6
+29.0,Rider,6-11,Jason Thompson,1.0,PF,Toronto Raptors,250.0,642560054efc1d753d15a9b7
+24.0,,7-0,Jonas Valanciunas,17.0,C,Toronto Raptors,255.0,642560054efc1d753d15a9b8
+24.0,Utah,6-5,Delon Wright,55.0,PG,Toronto Raptors,190.0,642560054efc1d753d15a9b9
+33.0,,6-3,Leandro Barbosa,19.0,SG,Golden State Warriors,194.0,642560054efc1d753d15a9ba
+24.0,North Carolina,6-8,Harrison Barnes,40.0,SF,Golden State Warriors,225.0,642560054efc1d753d15a9bb
+31.0,Utah,7-0,Andrew Bogut,12.0,C,Golden State Warriors,260.0,642560054efc1d753d15a9bc
+25.0,Belmont,6-3,Ian Clark,21.0,SG,Golden State Warriors,175.0,642560054efc1d753d15a9bd
+28.0,Davidson,6-3,Stephen Curry,30.0,PG,Golden State Warriors,190.0,642560054efc1d753d15a9be
+26.0,Vanderbilt,6-11,Festus Ezeli,31.0,C,Golden State Warriors,265.0,642560054efc1d753d15a9bf
+26.0,Michigan State,6-7,Draymond Green,23.0,PF,Golden State Warriors,230.0,642560054efc1d753d15a9c0
+32.0,Arizona,6-6,Andre Iguodala,9.0,SF,Golden State Warriors,215.0,642560054efc1d753d15a9c1
+30.0,,6-7,Shaun Livingston,34.0,PG,Golden State Warriors,192.0,642560054efc1d753d15a9c2
+20.0,UCLA,6-9,Kevon Looney,36.0,SF,Golden State Warriors,220.0,642560054efc1d753d15a9c3
+23.0,North Carolina,6-9,James Michael McAdoo,20.0,SF,Golden State Warriors,240.0,642560054efc1d753d15a9c4
+30.0,Kansas,6-6,Brandon Rush,4.0,SF,Golden State Warriors,220.0,642560054efc1d753d15a9c5
+28.0,Florida,6-10,Marreese Speights,5.0,C,Golden State Warriors,255.0,642560054efc1d753d15a9c6
+26.0,Washington State,6-7,Klay Thompson,11.0,SG,Golden State Warriors,215.0,642560054efc1d753d15a9c7
+33.0,,6-11,Anderson Varejao,18.0,PF,Golden State Warriors,273.0,642560054efc1d753d15a9c8
+27.0,Kansas,6-11,Cole Aldrich,45.0,C,Los Angeles Clippers,250.0,642560054efc1d753d15a9c9
+29.0,Arizona State,6-9,Jeff Ayres,19.0,PF,Los Angeles Clippers,250.0,642560054efc1d753d15a9ca
+36.0,Michigan,6-5,Jamal Crawford,11.0,SG,Los Angeles Clippers,195.0,642560054efc1d753d15a9cb
+23.0,Michigan State,6-6,Branden Dawson,22.0,SF,Los Angeles Clippers,225.0,642560054efc1d753d15a9cc
+29.0,Georgetown,6-9,Jeff Green,8.0,SF,Los Angeles Clippers,235.0,642560054efc1d753d15a9cd
+27.0,Oklahoma,6-10,Blake Griffin,32.0,PF,Los Angeles Clippers,251.0,642560054efc1d753d15a9ce
+28.0,Syracuse,6-7,Wesley Johnson,33.0,SF,Los Angeles Clippers,215.0,642560054efc1d753d15a9cf
+27.0,Texas A&M,6-11,DeAndre Jordan,6.0,C,Los Angeles Clippers,265.0,642560054efc1d753d15a9d0
+29.0,UCLA,6-8,Luc Richard Mbah a Moute,12.0,PF,Los Angeles Clippers,230.0,642560054efc1d753d15a9d1
+31.0,Wake Forest,6-0,Chris Paul,3.0,PG,Los Angeles Clippers,175.0,642560054efc1d753d15a9d2
+38.0,Kansas,6-7,Paul Pierce,34.0,SF,Los Angeles Clippers,235.0,642560054efc1d753d15a9d3
+39.0,,6-3,Pablo Prigioni,9.0,PG,Los Angeles Clippers,185.0,642560054efc1d753d15a9d4
+31.0,Duke,6-4,JJ Redick,4.0,SG,Los Angeles Clippers,190.0,642560054efc1d753d15a9d5
+23.0,Duke,6-4,Austin Rivers,25.0,PG,Los Angeles Clippers,200.0,642560054efc1d753d15a9d6
+25.0,Washington,6-5,C.J. Wilcox,30.0,SG,Los Angeles Clippers,195.0,642560054efc1d753d15a9d7
+31.0,LSU,6-8,Brandon Bass,2.0,PF,Los Angeles Lakers,250.0,642560054efc1d753d15a9d8
+24.0,Kansas,6-9,Tarik Black,28.0,C,Los Angeles Lakers,250.0,642560054efc1d753d15a9d9
+23.0,Stanford,6-7,Anthony Brown,3.0,SF,Los Angeles Lakers,210.0,642560054efc1d753d15a9da
+37.0,,6-6,Kobe Bryant,24.0,SF,Los Angeles Lakers,212.0,642560054efc1d753d15a9db
+24.0,Missouri,6-5,Jordan Clarkson,6.0,PG,Los Angeles Lakers,194.0,642560054efc1d753d15a9dc
+29.0,Georgetown,7-2,Roy Hibbert,17.0,C,Los Angeles Lakers,270.0,642560054efc1d753d15a9dd
+33.0,,6-3,Marcelo Huertas,9.0,PG,Los Angeles Lakers,200.0,642560054efc1d753d15a9de
+25.0,Duke,6-11,Ryan Kelly,4.0,PF,Los Angeles Lakers,230.0,642560054efc1d753d15a9df
+23.0,Wyoming,6-9,Larry Nance Jr.,7.0,PF,Los Angeles Lakers,230.0,642560054efc1d753d15a9e0
+21.0,Kentucky,6-9,Julius Randle,30.0,PF,Los Angeles Lakers,250.0,642560054efc1d753d15a9e1
+20.0,Ohio State,6-5,"D'Angelo Russell",1.0,PG,Los Angeles Lakers,195.0,642560054efc1d753d15a9e2
+27.0,Gonzaga,7-0,Robert Sacre,50.0,C,Los Angeles Lakers,270.0,642560054efc1d753d15a9e3
+29.0,,6-1,Louis Williams,23.0,SG,Los Angeles Lakers,175.0,642560054efc1d753d15a9e4
+36.0,"St. John's",6-7,Metta World Peace,37.0,SF,Los Angeles Lakers,260.0,642560054efc1d753d15a9e5
+31.0,USC,6-7,Nick Young,0.0,SF,Los Angeles Lakers,210.0,642560054efc1d753d15a9e6
+26.0,Kentucky,6-1,Eric Bledsoe,2.0,PG,Phoenix Suns,190.0,642560054efc1d753d15a9e7
+19.0,Kentucky,6-6,Devin Booker,1.0,SG,Phoenix Suns,206.0,642560054efc1d753d15a9e8
+28.0,Arizona,6-7,Chase Budinger,10.0,SF,Phoenix Suns,209.0,642560054efc1d753d15a9e9
+33.0,,7-1,Tyson Chandler,4.0,C,Phoenix Suns,240.0,642560054efc1d753d15a9ea
+21.0,Kentucky,6-5,Archie Goodwin,20.0,SG,Phoenix Suns,200.0,642560054efc1d753d15a9eb
+25.0,Vanderbilt,6-4,John Jenkins,23.0,SG,Phoenix Suns,215.0,642560054efc1d753d15a9ec
+24.0,Kentucky,6-3,Brandon Knight,3.0,PG,Phoenix Suns,189.0,642560054efc1d753d15a9ed
+22.0,Maryland,7-1,Alex Len,21.0,C,Phoenix Suns,260.0,642560054efc1d753d15a9ee
+27.0,Wisconsin,6-10,Jon Leuer,30.0,PF,Phoenix Suns,228.0,642560054efc1d753d15a9ef
+25.0,Missouri,5-11,Phil Pressey,25.0,PG,Phoenix Suns,175.0,642560054efc1d753d15a9f0
+32.0,Utah Valley,6-2,Ronnie Price,14.0,PG,Phoenix Suns,190.0,642560054efc1d753d15a9f1
+30.0,,6-9,Mirza Teletovic,35.0,PF,Phoenix Suns,242.0,642560054efc1d753d15a9f2
+31.0,Texas,6-6,P.J. Tucker,17.0,SF,Phoenix Suns,245.0,642560054efc1d753d15a9f3
+22.0,North Carolina State,6-8,T.J. Warren,12.0,SF,Phoenix Suns,230.0,642560054efc1d753d15a9f4
+23.0,UC Santa Barbara,6-8,Alan Williams,15.0,C,Phoenix Suns,260.0,642560054efc1d753d15a9f5
+25.0,Baylor,6-7,Quincy Acy,13.0,SF,Sacramento Kings,240.0,642560054efc1d753d15a9f6
+27.0,Oklahoma State,6-6,James Anderson,5.0,SG,Sacramento Kings,213.0,642560054efc1d753d15a9f7
+30.0,,6-5,Marco Belinelli,3.0,SG,Sacramento Kings,210.0,642560054efc1d753d15a9f8
+36.0,Connecticut,6-7,Caron Butler,31.0,SF,Sacramento Kings,228.0,642560054efc1d753d15a9f9
+27.0,,6-9,Omri Casspi,18.0,SF,Sacramento Kings,225.0,642560054efc1d753d15a9fa
+22.0,Kentucky,7-0,Willie Cauley-Stein,0.0,C,Sacramento Kings,240.0,642560054efc1d753d15a9fb
+28.0,UCLA,6-0,Darren Collison,7.0,PG,Sacramento Kings,175.0,642560054efc1d753d15a9fc
+25.0,Kentucky,6-11,DeMarcus Cousins,15.0,C,Sacramento Kings,270.0,642560054efc1d753d15a9fd
+25.0,Duke,6-2,Seth Curry,30.0,SG,Sacramento Kings,185.0,642560054efc1d753d15a9fe
+24.0,Wisconsin,6-9,Duje Dukan,26.0,PF,Sacramento Kings,220.0,642560054efc1d753d15a9ff
+29.0,Connecticut,6-8,Rudy Gay,8.0,SF,Sacramento Kings,230.0,642560054efc1d753d15aa00
+27.0,Ohio State,7-0,Kosta Koufos,41.0,C,Sacramento Kings,265.0,642560054efc1d753d15aa01
+23.0,Kansas,6-5,Ben McLemore,23.0,SG,Sacramento Kings,195.0,642560054efc1d753d15aa02
+24.0,Oregon State,6-10,Eric Moreland,25.0,PF,Sacramento Kings,238.0,642560054efc1d753d15aa03
+30.0,Kentucky,6-1,Rajon Rondo,9.0,PG,Sacramento Kings,186.0,642560054efc1d753d15aa04
+25.0,New Mexico,6-9,Cameron Bairstow,41.0,PF,Chicago Bulls,250.0,642560054efc1d753d15aa05
+31.0,Oregon,6-0,Aaron Brooks,0.0,PG,Chicago Bulls,161.0,642560054efc1d753d15aa06
+26.0,Marquette,6-7,Jimmy Butler,21.0,SG,Chicago Bulls,220.0,642560054efc1d753d15aa07
+35.0,Duke,6-9,Mike Dunleavy,34.0,SG,Chicago Bulls,230.0,642560054efc1d753d15aa08
+23.0,,6-10,Cristiano Felicio,6.0,PF,Chicago Bulls,275.0,642560054efc1d753d15aa09
+35.0,,7-0,Pau Gasol,16.0,C,Chicago Bulls,250.0,642560054efc1d753d15aa0a
+30.0,USC,6-9,Taj Gibson,22.0,PF,Chicago Bulls,225.0,642560054efc1d753d15aa0b
+27.0,Washington,6-6,Justin Holiday,7.0,SG,Chicago Bulls,185.0,642560054efc1d753d15aa0c
+24.0,Creighton,6-8,Doug McDermott,3.0,SF,Chicago Bulls,225.0,642560054efc1d753d15aa0d
+25.0,,6-10,Nikola Mirotic,44.0,PF,Chicago Bulls,220.0,642560054efc1d753d15aa0e
+27.0,Purdue,6-4,"E'Twaun Moore",55.0,SG,Chicago Bulls,191.0,642560054efc1d753d15aa0f
+31.0,Florida,6-11,Joakim Noah,13.0,C,Chicago Bulls,232.0,642560054efc1d753d15aa10
+21.0,Arkansas,6-11,Bobby Portis,5.0,PF,Chicago Bulls,230.0,642560054efc1d753d15aa11
+27.0,Memphis,6-3,Derrick Rose,1.0,PG,Chicago Bulls,190.0,642560054efc1d753d15aa12
+24.0,New Mexico,6-7,Tony Snell,20.0,SF,Chicago Bulls,200.0,642560054efc1d753d15aa13
+25.0,"Saint Mary's",6-4,Matthew Dellavedova,8.0,PG,Cleveland Cavaliers,198.0,642560054efc1d753d15aa14
+33.0,Arizona,6-11,Channing Frye,9.0,PF,Cleveland Cavaliers,255.0,642560054efc1d753d15aa15
+24.0,Duke,6-3,Kyrie Irving,2.0,PG,Cleveland Cavaliers,193.0,642560054efc1d753d15aa16
+31.0,,6-8,LeBron James,23.0,SF,Cleveland Cavaliers,250.0,642560054efc1d753d15aa17
+35.0,Arizona,6-7,Richard Jefferson,24.0,SF,Cleveland Cavaliers,233.0,642560054efc1d753d15aa18
+35.0,Duke,6-6,Dahntay Jones,30.0,SG,Cleveland Cavaliers,225.0,642560054efc1d753d15aa19
+35.0,Miami (FL),6-8,James Jones,1.0,SG,Cleveland Cavaliers,218.0,642560054efc1d753d15aa1a
+31.0,Kansas,6-11,Sasha Kaun,14.0,C,Cleveland Cavaliers,260.0,642560054efc1d753d15aa1b
+27.0,UCLA,6-10,Kevin Love,0.0,PF,Cleveland Cavaliers,251.0,642560054efc1d753d15aa1c
+25.0,Tennessee,6-5,Jordan McRae,12.0,SG,Cleveland Cavaliers,179.0,642560054efc1d753d15aa1d
+29.0,,7-1,Timofey Mozgov,20.0,C,Cleveland Cavaliers,275.0,642560054efc1d753d15aa1e
+25.0,Georgia Tech,6-5,Iman Shumpert,4.0,SG,Cleveland Cavaliers,220.0,642560054efc1d753d15aa1f
+30.0,,6-6,J.R. Smith,5.0,SG,Cleveland Cavaliers,225.0,642560054efc1d753d15aa20
+25.0,Texas,6-9,Tristan Thompson,13.0,C,Cleveland Cavaliers,238.0,642560054efc1d753d15aa21
+33.0,Alabama,6-1,Mo Williams,52.0,PG,Cleveland Cavaliers,198.0,642560054efc1d753d15aa22
+33.0,UNLV,6-9,Joel Anthony,50.0,C,Detroit Pistons,245.0,642560054efc1d753d15aa23
+29.0,Washington State,6-10,Aron Baynes,12.0,C,Detroit Pistons,260.0,642560054efc1d753d15aa24
+36.0,Maryland,6-3,Steve Blake,22.0,PG,Detroit Pistons,172.0,642560054efc1d753d15aa25
+25.0,North Carolina State,6-5,Lorenzo Brown,17.0,PG,Detroit Pistons,189.0,642560054efc1d753d15aa26
+25.0,North Carolina,6-7,Reggie Bullock,25.0,SF,Detroit Pistons,205.0,642560054efc1d753d15aa27
+23.0,Georgia,6-5,Kentavious Caldwell-Pope,5.0,SG,Detroit Pistons,205.0,642560054efc1d753d15aa28
+23.0,Colorado,6-6,Spencer Dinwiddie,8.0,PG,Detroit Pistons,200.0,642560054efc1d753d15aa29
+22.0,Connecticut,6-11,Andre Drummond,0.0,C,Detroit Pistons,279.0,642560054efc1d753d15aa2a
+23.0,Tennessee,6-9,Tobias Harris,34.0,SF,Detroit Pistons,235.0,642560054efc1d753d15aa2b
+23.0,Villanova,6-6,Darrun Hilliard,6.0,SF,Detroit Pistons,205.0,642560054efc1d753d15aa2c
+26.0,Boston College,6-3,Reggie Jackson,1.0,PG,Detroit Pistons,208.0,642560054efc1d753d15aa2d
+20.0,Arizona,6-7,Stanley Johnson,3.0,SF,Detroit Pistons,245.0,642560054efc1d753d15aa2e
+28.0,Kentucky,6-4,Jodie Meeks,20.0,SG,Detroit Pistons,210.0,642560054efc1d753d15aa2f
+26.0,Kansas,6-9,Marcus Morris,13.0,PF,Detroit Pistons,235.0,642560054efc1d753d15aa30
+31.0,Creighton,6-8,Anthony Tolliver,43.0,PF,Detroit Pistons,240.0,642560054efc1d753d15aa31
+27.0,Temple,6-9,Lavoy Allen,5.0,PF,Indiana Pacers,255.0,642560054efc1d753d15aa32
+24.0,Syracuse,6-9,Rakeem Christmas,25.0,PF,Indiana Pacers,250.0,642560054efc1d753d15aa33
+30.0,,6-3,Monta Ellis,11.0,SG,Indiana Pacers,185.0,642560054efc1d753d15aa34
+26.0,Fresno State,6-9,Paul George,13.0,SF,Indiana Pacers,220.0,642560054efc1d753d15aa35
+30.0,IUPUI,6-3,George Hill,3.0,PG,Indiana Pacers,188.0,642560054efc1d753d15aa36
+28.0,Arizona,6-10,Jordan Hill,27.0,C,Indiana Pacers,235.0,642560054efc1d753d15aa37
+25.0,Arizona,6-7,Solomon Hill,44.0,SF,Indiana Pacers,225.0,642560054efc1d753d15aa38
+28.0,North Carolina,5-11,Ty Lawson,10.0,PG,Indiana Pacers,195.0,642560054efc1d753d15aa39
+29.0,,6-11,Ian Mahinmi,28.0,C,Indiana Pacers,250.0,642560054efc1d753d15aa3a
+29.0,,6-6,C.J. Miles,0.0,SF,Indiana Pacers,231.0,642560054efc1d753d15aa3b
+22.0,Michigan,6-7,Glenn Robinson III,40.0,SG,Indiana Pacers,222.0,642560054efc1d753d15aa3c
+30.0,Eastern Washington,6-5,Rodney Stuckey,2.0,PG,Indiana Pacers,205.0,642560054efc1d753d15aa3d
+20.0,Texas,6-11,Myles Turner,33.0,PF,Indiana Pacers,243.0,642560054efc1d753d15aa3e
+25.0,Western Michigan,6-11,Shayne Whittington,42.0,PF,Indiana Pacers,250.0,642560054efc1d753d15aa3f
+23.0,Oregon,6-2,Joe Young,1.0,PG,Indiana Pacers,180.0,642560054efc1d753d15aa40
+21.0,,6-11,Giannis Antetokounmpo,34.0,SF,Milwaukee Bucks,222.0,642560054efc1d753d15aa41
+27.0,Arizona,6-3,Jerryd Bayless,19.0,PG,Milwaukee Bucks,200.0,642560054efc1d753d15aa42
+24.0,Syracuse,6-6,Michael Carter-Williams,5.0,PG,Milwaukee Bucks,190.0,642560054efc1d753d15aa43
+25.0,Oregon State,6-4,Jared Cunningham,9.0,SG,Milwaukee Bucks,195.0,642560054efc1d753d15aa44
+21.0,Syracuse,6-3,Tyler Ennis,11.0,PG,Milwaukee Bucks,194.0,642560054efc1d753d15aa45
+25.0,North Carolina,6-11,John Henson,31.0,PF,Milwaukee Bucks,229.0,642560054efc1d753d15aa46
+21.0,,6-8,Damien Inglis,17.0,SF,Milwaukee Bucks,246.0,642560054efc1d753d15aa47
+28.0,USC,6-5,O.J. Mayo,3.0,SG,Milwaukee Bucks,210.0,642560054efc1d753d15aa48
+24.0,Texas A&M,6-8,Khris Middleton,22.0,SG,Milwaukee Bucks,234.0,642560054efc1d753d15aa49
+26.0,Georgetown,6-11,Greg Monroe,15.0,C,Milwaukee Bucks,265.0,642560054efc1d753d15aa4a
+32.0,Marquette,6-10,Steve Novak,6.0,SF,Milwaukee Bucks,225.0,642560054efc1d753d15aa4b
+23.0,LSU,6-9,"Johnny O'Bryant III",77.0,PF,Milwaukee Bucks,257.0,642560054efc1d753d15aa4c
+21.0,Duke,6-8,Jabari Parker,12.0,PF,Milwaukee Bucks,250.0,642560054efc1d753d15aa4d
+27.0,Duke,6-11,Miles Plumlee,18.0,C,Milwaukee Bucks,249.0,642560054efc1d753d15aa4e
+29.0,Maryland,6-6,Greivis Vasquez,21.0,PG,Milwaukee Bucks,217.0,642560054efc1d753d15aa4f
+19.0,UNLV,6-6,Rashad Vaughn,20.0,SG,Milwaukee Bucks,202.0,642560054efc1d753d15aa50
+22.0,Virginia,6-6,Justin Anderson,1.0,SG,Dallas Mavericks,228.0,642560054efc1d753d15aa51
+31.0,Northeastern,6-0,J.J. Barea,5.0,PG,Dallas Mavericks,185.0,642560054efc1d753d15aa52
+28.0,Western Kentucky,6-9,Jeremy Evans,21.0,SF,Dallas Mavericks,200.0,642560054efc1d753d15aa53
+31.0,North Carolina,6-1,Raymond Felton,2.0,PG,Dallas Mavericks,205.0,642560054efc1d753d15aa54
+33.0,Wisconsin,6-3,Devin Harris,34.0,PG,Dallas Mavericks,185.0,642560054efc1d753d15aa55
+33.0,Florida,6-9,David Lee,42.0,PF,Dallas Mavericks,245.0,642560054efc1d753d15aa56
+29.0,Marquette,6-5,Wesley Matthews,23.0,SG,Dallas Mavericks,220.0,642560054efc1d753d15aa57
+28.0,Nevada,7-0,JaVale McGee,11.0,C,Dallas Mavericks,270.0,642560054efc1d753d15aa58
+29.0,,7-2,Salah Mejri,50.0,C,Dallas Mavericks,245.0,642560054efc1d753d15aa59
+37.0,,7-0,Dirk Nowitzki,41.0,PF,Dallas Mavericks,245.0,642560054efc1d753d15aa5a
+32.0,,6-11,Zaza Pachulia,27.0,C,Dallas Mavericks,275.0,642560054efc1d753d15aa5b
+27.0,Florida,6-10,Chandler Parsons,25.0,SF,Dallas Mavericks,230.0,642560054efc1d753d15aa5c
+24.0,Stanford,6-11,Dwight Powell,7.0,PF,Dallas Mavericks,240.0,642560054efc1d753d15aa5d
+31.0,Connecticut,6-11,Charlie Villanueva,3.0,PF,Dallas Mavericks,232.0,642560054efc1d753d15aa5e
+31.0,Illinois,6-3,Deron Williams,8.0,PG,Dallas Mavericks,200.0,642560054efc1d753d15aa5f
+30.0,UCLA,6-8,Trevor Ariza,1.0,SF,Houston Rockets,215.0,642560054efc1d753d15aa60
+27.0,Kansas State,6-10,Michael Beasley,8.0,SF,Houston Rockets,235.0,642560054efc1d753d15aa61
+27.0,Arkansas,6-1,Patrick Beverley,2.0,PG,Houston Rockets,185.0,642560054efc1d753d15aa62
+30.0,Florida,6-9,Corey Brewer,33.0,SG,Houston Rockets,186.0,642560054efc1d753d15aa63
+22.0,,6-10,Clint Capela,15.0,PF,Houston Rockets,240.0,642560054efc1d753d15aa64
+22.0,Wisconsin,6-9,Sam Dekker,7.0,SF,Houston Rockets,230.0,642560054efc1d753d15aa65
+27.0,Charleston,6-3,Andrew Goudelock,0.0,PG,Houston Rockets,200.0,642560054efc1d753d15aa66
+26.0,Arizona State,6-5,James Harden,13.0,SG,Houston Rockets,220.0,642560054efc1d753d15aa67
+22.0,Louisville,6-8,Montrezl Harrell,35.0,PF,Houston Rockets,240.0,642560054efc1d753d15aa68
+30.0,,6-11,Dwight Howard,12.0,C,Houston Rockets,265.0,642560054efc1d753d15aa69
+24.0,Kentucky,6-9,Terrence Jones,6.0,PF,Houston Rockets,252.0,642560054efc1d753d15aa6a
+23.0,Clemson,6-6,K.J. McDaniels,32.0,SG,Houston Rockets,205.0,642560054efc1d753d15aa6b
+25.0,,7-0,Donatas Motiejunas,20.0,PF,Houston Rockets,222.0,642560054efc1d753d15aa6c
+30.0,,6-9,Josh Smith,5.0,C,Houston Rockets,225.0,642560054efc1d753d15aa6d
+38.0,Arizona,6-2,Jason Terry,31.0,SG,Houston Rockets,185.0,642560054efc1d753d15aa6e
+21.0,UCLA,6-5,Jordan Adams,3.0,SG,Memphis Grizzlies,209.0,642560054efc1d753d15aa6f
+34.0,Oklahoma State,6-4,Tony Allen,9.0,SG,Memphis Grizzlies,213.0,642560054efc1d753d15aa70
+37.0,Blinn College,6-10,Chris Andersen,7.0,PF,Memphis Grizzlies,245.0,642560054efc1d753d15aa71
+36.0,UCLA,6-7,Matt Barnes,22.0,SF,Memphis Grizzlies,226.0,642560054efc1d753d15aa72
+39.0,North Carolina,6-6,Vince Carter,15.0,SG,Memphis Grizzlies,220.0,642560054efc1d753d15aa73
+28.0,Ohio State,6-1,Mike Conley,11.0,PG,Memphis Grizzlies,175.0,642560054efc1d753d15aa74
+23.0,Providence,6-1,Bryce Cotton,8.0,PG,Memphis Grizzlies,165.0,642560054efc1d753d15aa75
+29.0,UCLA,6-2,Jordan Farmar,4.0,PG,Memphis Grizzlies,180.0,642560054efc1d753d15aa76
+31.0,,7-1,Marc Gasol,33.0,C,Memphis Grizzlies,255.0,642560054efc1d753d15aa77
+25.0,Alabama,6-9,JaMychal Green,0.0,PF,Memphis Grizzlies,227.0,642560054efc1d753d15aa78
+23.0,North Carolina,6-6,P.J. Hairston,19.0,SF,Memphis Grizzlies,230.0,642560054efc1d753d15aa79
+22.0,LSU,6-10,Jarell Martin,10.0,PF,Memphis Grizzlies,239.0,642560054efc1d753d15aa7a
+24.0,Detroit,6-3,Ray McCallum,5.0,PG,Memphis Grizzlies,190.0,642560054efc1d753d15aa7b
+24.0,Rhode Island,6-3,Xavier Munford,14.0,PG,Memphis Grizzlies,180.0,642560054efc1d753d15aa7c
+34.0,Michigan State,6-9,Zach Randolph,50.0,PF,Memphis Grizzlies,260.0,642560054efc1d753d15aa7d
+25.0,Cincinnati,6-5,Lance Stephenson,1.0,SF,Memphis Grizzlies,230.0,642560054efc1d753d15aa7e
+28.0,USC,6-10,Alex Stepheson,35.0,PF,Memphis Grizzlies,270.0,642560054efc1d753d15aa7f
+28.0,North Carolina,6-10,Brandan Wright,34.0,PF,Memphis Grizzlies,210.0,642560054efc1d753d15aa80
+28.0,,7-2,Alexis Ajinca,42.0,C,New Orleans Pelicans,248.0,642560054efc1d753d15aa81
+28.0,California,6-10,Ryan Anderson,33.0,PF,New Orleans Pelicans,240.0,642560054efc1d753d15aa82
+29.0,,7-0,Omer Asik,3.0,C,New Orleans Pelicans,255.0,642560054efc1d753d15aa83
+26.0,Nevada,6-9,Luke Babbitt,8.0,SF,New Orleans Pelicans,225.0,642560054efc1d753d15aa84
+27.0,Cleveland State,6-2,Norris Cole,30.0,PG,New Orleans Pelicans,175.0,642560054efc1d753d15aa85
+29.0,Villanova,6-8,Dante Cunningham,44.0,PF,New Orleans Pelicans,230.0,642560054efc1d753d15aa86
+23.0,Kentucky,6-10,Anthony Davis,23.0,PF,New Orleans Pelicans,253.0,642560054efc1d753d15aa87
+23.0,Iowa State,6-6,Bryce Dejean-Jones,31.0,SG,New Orleans Pelicans,203.0,642560054efc1d753d15aa88
+30.0,Florida State,6-2,Toney Douglas,16.0,PG,New Orleans Pelicans,195.0,642560054efc1d753d15aa89
+25.0,Long Beach State,6-7,James Ennis,4.0,SF,New Orleans Pelicans,210.0,642560054efc1d753d15aa8a
+26.0,Memphis,6-6,Tyreke Evans,1.0,SG,New Orleans Pelicans,220.0,642560054efc1d753d15aa8b
+25.0,Penn State,6-1,Tim Frazier,2.0,PG,New Orleans Pelicans,170.0,642560054efc1d753d15aa8c
+29.0,Alabama,6-6,Alonzo Gee,15.0,SF,New Orleans Pelicans,225.0,642560054efc1d753d15aa8d
+27.0,Indiana,6-4,Eric Gordon,10.0,SG,New Orleans Pelicans,215.0,642560054efc1d753d15aa8e
+25.0,Texas,6-7,Jordan Hamilton,25.0,SG,New Orleans Pelicans,220.0,642560054efc1d753d15aa8f
+25.0,UCLA,6-4,Jrue Holiday,11.0,PG,New Orleans Pelicans,205.0,642560054efc1d753d15aa90
+27.0,UC Santa Barbara,6-5,Orlando Johnson,0.0,SG,New Orleans Pelicans,220.0,642560054efc1d753d15aa91
+31.0,,6-10,Kendrick Perkins,5.0,C,New Orleans Pelicans,270.0,642560054efc1d753d15aa92
+28.0,Washington,6-7,Quincy Pondexter,20.0,SF,New Orleans Pelicans,220.0,642560054efc1d753d15aa93
+30.0,Texas,6-11,LaMarcus Aldridge,12.0,PF,San Antonio Spurs,240.0,642560054efc1d753d15aa94
+22.0,UCLA,6-9,Kyle Anderson,1.0,SF,San Antonio Spurs,230.0,642560054efc1d753d15aa95
+36.0,Florida,6-10,Matt Bonner,15.0,C,San Antonio Spurs,235.0,642560054efc1d753d15aa96
+34.0,,6-8,Boris Diaw,33.0,C,San Antonio Spurs,250.0,642560054efc1d753d15aa97
+40.0,Wake Forest,6-11,Tim Duncan,21.0,C,San Antonio Spurs,250.0,642560054efc1d753d15aa98
+38.0,,6-6,Manu Ginobili,20.0,SG,San Antonio Spurs,205.0,642560054efc1d753d15aa99
+28.0,North Carolina,6-6,Danny Green,14.0,SG,San Antonio Spurs,215.0,642560054efc1d753d15aa9a
+24.0,San Diego State,6-7,Kawhi Leonard,2.0,SF,San Antonio Spurs,230.0,642560054efc1d753d15aa9b
+27.0,,7-3,Boban Marjanovic,40.0,C,San Antonio Spurs,290.0,642560054efc1d753d15aa9c
+33.0,Western Carolina,6-7,Kevin Martin,23.0,SG,San Antonio Spurs,199.0,642560054efc1d753d15aa9d
+40.0,Utah,6-3,Andre Miller,24.0,PG,San Antonio Spurs,200.0,642560054efc1d753d15aa9e
+27.0,"Saint Mary's",6-0,Patty Mills,8.0,PG,San Antonio Spurs,185.0,642560054efc1d753d15aa9f
+34.0,,6-2,Tony Parker,9.0,PG,San Antonio Spurs,185.0,642560054efc1d753d15aaa0
+26.0,Houston,6-6,Jonathon Simmons,17.0,SG,San Antonio Spurs,195.0,642560054efc1d753d15aaa1
+35.0,Xavier,6-9,David West,30.0,PF,San Antonio Spurs,250.0,642560054efc1d753d15aaa2
+26.0,Old Dominion,6-5,Kent Bazemore,24.0,SF,Atlanta Hawks,201.0,642560054efc1d753d15aaa3
+24.0,Michigan,6-6,Tim Hardaway Jr.,10.0,SG,Atlanta Hawks,205.0,642560054efc1d753d15aaa4
+35.0,Kansas,6-4,Kirk Hinrich,12.0,SG,Atlanta Hawks,190.0,642560054efc1d753d15aaa5
+30.0,Florida,6-10,Al Horford,15.0,C,Atlanta Hawks,245.0,642560054efc1d753d15aaa6
+31.0,Minnesota,6-9,Kris Humphries,43.0,PF,Atlanta Hawks,235.0,642560054efc1d753d15aaa7
+35.0,Creighton,6-7,Kyle Korver,26.0,SG,Atlanta Hawks,212.0,642560054efc1d753d15aaa8
+31.0,Louisiana Tech,6-8,Paul Millsap,4.0,PF,Atlanta Hawks,246.0,642560054efc1d753d15aaa9
+24.0,Bucknell,6-11,Mike Muscala,31.0,PF,Atlanta Hawks,240.0,642560054efc1d753d15aaaa
+24.0,Pittsburgh,6-5,Lamar Patterson,13.0,SG,Atlanta Hawks,225.0,642560054efc1d753d15aaab
+22.0,,6-1,Dennis Schroder,17.0,PG,Atlanta Hawks,172.0,642560054efc1d753d15aaac
+27.0,Virginia,6-8,Mike Scott,32.0,PF,Atlanta Hawks,237.0,642560054efc1d753d15aaad
+32.0,,6-7,Thabo Sefolosha,25.0,SF,Atlanta Hawks,220.0,642560054efc1d753d15aaae
+31.0,,6-11,Tiago Splitter,11.0,C,Atlanta Hawks,245.0,642560054efc1d753d15aaaf
+24.0,,7-3,Walter Tavares,22.0,C,Atlanta Hawks,260.0,642560054efc1d753d15aab0
+27.0,Wake Forest,6-2,Jeff Teague,0.0,PG,Atlanta Hawks,186.0,642560054efc1d753d15aab1
+27.0,,6-8,Nicolas Batum,5.0,SG,Charlotte Hornets,200.0,642560054efc1d753d15aab2
+24.0,Virginia Commonwealth,6-4,Troy Daniels,30.0,SG,Charlotte Hornets,205.0,642560054efc1d753d15aab3
+27.0,California,6-3,Jorge Gutierrez,12.0,PG,Charlotte Hornets,189.0,642560054efc1d753d15aab4
+30.0,North Carolina,6-9,Tyler Hansbrough,50.0,PF,Charlotte Hornets,250.0,642560054efc1d753d15aab5
+21.0,Kentucky,6-6,Aaron Harrison,9.0,SG,Charlotte Hornets,210.0,642560054efc1d753d15aab6
+28.0,Washington,7-1,Spencer Hawes,0.0,PF,Charlotte Hornets,245.0,642560054efc1d753d15aab7
+31.0,,6-10,Al Jefferson,25.0,C,Charlotte Hornets,289.0,642560054efc1d753d15aab8
+23.0,Wisconsin,7-0,Frank Kaminsky III,44.0,C,Charlotte Hornets,240.0,642560054efc1d753d15aab9
+22.0,Kentucky,6-7,Michael Kidd-Gilchrist,14.0,SF,Charlotte Hornets,232.0,642560054efc1d753d15aaba
+24.0,Connecticut,6-5,Jeremy Lamb,3.0,SG,Charlotte Hornets,185.0,642560054efc1d753d15aabb
+30.0,Western Kentucky,6-5,Courtney Lee,1.0,SG,Charlotte Hornets,200.0,642560054efc1d753d15aabc
+27.0,Harvard,6-3,Jeremy Lin,7.0,PG,Charlotte Hornets,200.0,642560054efc1d753d15aabd
+26.0,Connecticut,6-1,Kemba Walker,15.0,PG,Charlotte Hornets,184.0,642560054efc1d753d15aabe
+29.0,North Carolina,6-9,Marvin Williams,2.0,PF,Charlotte Hornets,237.0,642560054efc1d753d15aabf
+23.0,Indiana,7-0,Cody Zeller,40.0,C,Charlotte Hornets,240.0,642560054efc1d753d15aac0
+32.0,Georgia Tech,6-11,Chris Bosh,1.0,PF,Miami Heat,235.0,642560054efc1d753d15aac1
+31.0,Duke,6-9,Luol Deng,9.0,SF,Miami Heat,220.0,642560054efc1d753d15aac2
+30.0,,6-3,Goran Dragic,7.0,PG,Miami Heat,190.0,642560054efc1d753d15aac3
+30.0,,6-7,Gerald Green,14.0,SF,Miami Heat,205.0,642560054efc1d753d15aac4
+36.0,Florida,6-8,Udonis Haslem,40.0,PF,Miami Heat,235.0,642560054efc1d753d15aac5
+34.0,Arkansas,6-7,Joe Johnson,2.0,SF,Miami Heat,240.0,642560054efc1d753d15aac6
+24.0,Fresno State,6-4,Tyler Johnson,8.0,SG,Miami Heat,186.0,642560054efc1d753d15aac7
+29.0,Duke,6-10,Josh McRoberts,4.0,PF,Miami Heat,240.0,642560054efc1d753d15aac8
+22.0,Tennessee,6-6,Josh Richardson,0.0,SG,Miami Heat,200.0,642560054efc1d753d15aac9
+33.0,,6-10,"Amar'e Stoudemire",5.0,PF,Miami Heat,245.0,642560054efc1d753d15aaca
+34.0,Marquette,6-4,Dwyane Wade,3.0,SG,Miami Heat,220.0,642560054efc1d753d15aacb
+23.0,Virginia Commonwealth,6-2,Briante Weber,12.0,PG,Miami Heat,165.0,642560054efc1d753d15aacc
+26.0,Marshall,7-0,Hassan Whiteside,21.0,C,Miami Heat,265.0,642560054efc1d753d15aacd
+20.0,Duke,6-7,Justise Winslow,20.0,SF,Miami Heat,225.0,642560054efc1d753d15aace
+30.0,,6-9,Dorell Wright,11.0,SF,Miami Heat,205.0,642560054efc1d753d15aacf
+26.0,USC,7-0,Dewayne Dedmon,3.0,C,Orlando Magic,245.0,642560054efc1d753d15aad0
+23.0,,6-7,Evan Fournier,10.0,SG,Orlando Magic,205.0,642560054efc1d753d15aad1
+20.0,Arizona,6-9,Aaron Gordon,0.0,PF,Orlando Magic,220.0,642560054efc1d753d15aad2
+21.0,,6-8,Mario Hezonja,23.0,SG,Orlando Magic,218.0,642560054efc1d753d15aad3
+29.0,,6-10,Ersan Ilyasova,7.0,PF,Orlando Magic,235.0,642560054efc1d753d15aad4
+26.0,,6-1,Brandon Jennings,55.0,PG,Orlando Magic,169.0,642560054efc1d753d15aad5
+23.0,Iowa,6-6,Devyn Marble,11.0,SF,Orlando Magic,200.0,642560054efc1d753d15aad6
+24.0,Connecticut,6-1,Shabazz Napier,13.0,PG,Orlando Magic,175.0,642560054efc1d753d15aad7
+26.0,St. Bonaventure,6-9,Andrew Nicholson,44.0,PF,Orlando Magic,250.0,642560054efc1d753d15aad8
+24.0,Indiana,6-4,Victor Oladipo,5.0,SG,Orlando Magic,210.0,642560054efc1d753d15aad9
+22.0,Louisiana-Lafayette,6-4,Elfrid Payton,4.0,PG,Orlando Magic,185.0,642560054efc1d753d15aada
+30.0,Colorado State,7-0,Jason Smith,14.0,PF,Orlando Magic,240.0,642560054efc1d753d15aadb
+25.0,USC,7-0,Nikola Vucevic,9.0,C,Orlando Magic,260.0,642560054efc1d753d15aadc
+32.0,Tennessee,6-2,C.J. Watson,32.0,PG,Orlando Magic,175.0,642560054efc1d753d15aadd
+33.0,Michigan State,6-6,Alan Anderson,6.0,SG,Washington Wizards,220.0,642560054efc1d753d15aade
+22.0,Florida,6-5,Bradley Beal,3.0,SG,Washington Wizards,207.0,642560054efc1d753d15aadf
+30.0,Boston College,6-7,Jared Dudley,1.0,SF,Washington Wizards,225.0,642560054efc1d753d15aae0
+24.0,Virginia Tech,6-7,Jarell Eddie,8.0,SG,Washington Wizards,218.0,642560054efc1d753d15aae1
+34.0,Kansas,6-10,Drew Gooden,90.0,PF,Washington Wizards,250.0,642560054efc1d753d15aae2
+32.0,,6-11,Marcin Gortat,13.0,C,Washington Wizards,240.0,642560054efc1d753d15aae3
+27.0,North Carolina State,6-9,JJ Hickson,21.0,C,Washington Wizards,242.0,642560054efc1d753d15aae4
+33.0,,6-11,Nene Hilario,42.0,C,Washington Wizards,250.0,642560054efc1d753d15aae5
+26.0,Kansas,6-10,Markieff Morris,5.0,PF,Washington Wizards,245.0,642560054efc1d753d15aae6
+20.0,Kansas,6-7,Kelly Oubre Jr.,12.0,SF,Washington Wizards,205.0,642560054efc1d753d15aae7
+23.0,Georgetown,6-8,Otto Porter Jr.,22.0,SF,Washington Wizards,198.0,642560054efc1d753d15aae8
+30.0,Nevada,6-3,Ramon Sessions,7.0,PG,Washington Wizards,190.0,642560054efc1d753d15aae9
+30.0,LSU,6-6,Garrett Temple,17.0,SG,Washington Wizards,195.0,642560054efc1d753d15aaea
+29.0,LSU,6-4,Marcus Thornton,15.0,SF,Washington Wizards,205.0,642560054efc1d753d15aaeb
+25.0,Kentucky,6-4,John Wall,2.0,PG,Washington Wizards,195.0,642560054efc1d753d15aaec
+28.0,Kansas,6-9,Darrell Arthur,0.0,PF,Denver Nuggets,235.0,642560054efc1d753d15aaed
+28.0,Texas,6-0,D.J. Augustin,12.0,PG,Denver Nuggets,183.0,642560054efc1d753d15aaee
+25.0,Memphis,6-6,Will Barton,5.0,SF,Denver Nuggets,175.0,642560054efc1d753d15aaef
+29.0,DePaul,6-8,Wilson Chandler,21.0,SF,Denver Nuggets,225.0,642560054efc1d753d15aaf0
+26.0,Morehead State,6-8,Kenneth Faried,35.0,PF,Denver Nuggets,228.0,642560054efc1d753d15aaf1
+27.0,,6-10,Danilo Gallinari,8.0,SF,Denver Nuggets,225.0,642560054efc1d753d15aaf2
+21.0,Michigan State,6-4,Gary Harris,14.0,SG,Denver Nuggets,210.0,642560054efc1d753d15aaf3
+21.0,,6-10,Nikola Jokic,15.0,C,Denver Nuggets,250.0,642560054efc1d753d15aaf4
+24.0,,6-11,Joffrey Lauvergne,77.0,C,Denver Nuggets,220.0,642560054efc1d753d15aaf5
+36.0,Florida,6-8,Mike Miller,3.0,SG,Denver Nuggets,218.0,642560054efc1d753d15aaf6
+20.0,,6-5,Emmanuel Mudiay,0.0,PG,Denver Nuggets,200.0,642560054efc1d753d15aaf7
+34.0,"Saint Joseph's",6-0,Jameer Nelson,1.0,PG,Denver Nuggets,190.0,642560054efc1d753d15aaf8
+21.0,,7-0,Jusuf Nurkic,23.0,C,Denver Nuggets,280.0,642560054efc1d753d15aaf9
+23.0,"St. John's",6-9,JaKarr Sampson,9.0,SG,Denver Nuggets,214.0,642560054efc1d753d15aafa
+23.0,,6-7,Axel Toupane,6.0,SG,Denver Nuggets,210.0,642560054efc1d753d15aafb
+28.0,,6-10,Nemanja Bjelica,88.0,PF,Minnesota Timberwolves,240.0,642560054efc1d753d15aafc
+26.0,Louisville,6-11,Gorgui Dieng,5.0,C,Minnesota Timberwolves,241.0,642560054efc1d753d15aafd
+40.0,,6-11,Kevin Garnett,21.0,PF,Minnesota Timberwolves,240.0,642560054efc1d753d15aafe
+20.0,Duke,6-2,Tyus Jones,1.0,PG,Minnesota Timberwolves,195.0,642560054efc1d753d15aaff
+21.0,UCLA,6-5,Zach LaVine,8.0,PG,Minnesota Timberwolves,189.0,642560054efc1d753d15ab00
+23.0,UCLA,6-6,Shabazz Muhammad,15.0,SF,Minnesota Timberwolves,223.0,642560054efc1d753d15ab01
+25.0,Michigan State,6-10,Adreian Payne,33.0,PF,Minnesota Timberwolves,237.0,642560054efc1d753d15ab02
+30.0,,6-11,Nikola Pekovic,14.0,C,Minnesota Timberwolves,307.0,642560054efc1d753d15ab03
+36.0,Kentucky,6-9,Tayshaun Prince,12.0,SF,Minnesota Timberwolves,212.0,642560054efc1d753d15ab04
+25.0,,6-4,Ricky Rubio,9.0,PG,Minnesota Timberwolves,194.0,642560054efc1d753d15ab05
+29.0,,6-9,Damjan Rudez,10.0,SF,Minnesota Timberwolves,230.0,642560054efc1d753d15ab06
+25.0,Fresno State,6-10,Greg Smith,4.0,PF,Minnesota Timberwolves,250.0,642560054efc1d753d15ab07
+20.0,Kentucky,7-0,Karl-Anthony Towns,32.0,C,Minnesota Timberwolves,244.0,642560054efc1d753d15ab08
+21.0,Kansas,6-8,Andrew Wiggins,22.0,SG,Minnesota Timberwolves,199.0,642560054efc1d753d15ab09
+22.0,Pittsburgh,7-0,Steven Adams,12.0,C,Oklahoma City Thunder,255.0,642560054efc1d753d15ab0a
+35.0,Kansas,6-10,Nick Collison,4.0,PF,Oklahoma City Thunder,255.0,642560054efc1d753d15ab0b
+27.0,Texas,6-9,Kevin Durant,35.0,SF,Oklahoma City Thunder,240.0,642560054efc1d753d15ab0c
+32.0,Villanova,6-4,Randy Foye,6.0,SG,Oklahoma City Thunder,213.0,642560054efc1d753d15ab0d
+24.0,Stanford,6-7,Josh Huestis,34.0,SF,Oklahoma City Thunder,230.0,642560054efc1d753d15ab0e
+26.0,,6-10,Serge Ibaka,9.0,PF,Oklahoma City Thunder,245.0,642560054efc1d753d15ab0f
+24.0,Kentucky,6-11,Enes Kanter,11.0,C,Oklahoma City Thunder,245.0,642560054efc1d753d15ab10
+24.0,Michigan,6-10,Mitch McGary,33.0,PF,Oklahoma City Thunder,255.0,642560054efc1d753d15ab11
+38.0,Kentucky,6-10,Nazr Mohammed,13.0,C,Oklahoma City Thunder,250.0,642560054efc1d753d15ab12
+30.0,Georgia Tech,6-5,Anthony Morrow,2.0,SG,Oklahoma City Thunder,210.0,642560054efc1d753d15ab13
+21.0,Murray State,6-3,Cameron Payne,22.0,PG,Oklahoma City Thunder,185.0,642560054efc1d753d15ab14
+24.0,Colorado,6-7,Andre Roberson,21.0,SG,Oklahoma City Thunder,210.0,642560054efc1d753d15ab15
+28.0,Duke,6-8,Kyle Singler,5.0,SF,Oklahoma City Thunder,228.0,642560054efc1d753d15ab16
+24.0,Syracuse,6-4,Dion Waiters,3.0,SG,Oklahoma City Thunder,220.0,642560054efc1d753d15ab17
+27.0,UCLA,6-3,Russell Westbrook,0.0,PG,Oklahoma City Thunder,200.0,642560054efc1d753d15ab18
+20.0,Kansas,6-8,Cliff Alexander,34.0,PF,Portland Trail Blazers,240.0,642560054efc1d753d15ab19
+25.0,Wake Forest,6-9,Al-Farouq Aminu,8.0,SF,Portland Trail Blazers,215.0,642560054efc1d753d15ab1a
+23.0,Notre Dame,6-5,Pat Connaughton,5.0,SG,Portland Trail Blazers,206.0,642560054efc1d753d15ab1b
+24.0,California,6-6,Allen Crabbe,23.0,SG,Portland Trail Blazers,210.0,642560054efc1d753d15ab1c
+27.0,North Carolina,6-10,Ed Davis,17.0,C,Portland Trail Blazers,240.0,642560054efc1d753d15ab1d
+23.0,"St. John's",6-9,Maurice Harkless,4.0,SF,Portland Trail Blazers,215.0,642560054efc1d753d15ab1e
+28.0,Duke,6-5,Gerald Henderson,9.0,SG,Portland Trail Blazers,215.0,642560054efc1d753d15ab1f
+34.0,Central Michigan,7-0,Chris Kaman,35.0,C,Portland Trail Blazers,265.0,642560054efc1d753d15ab20
+24.0,Illinois,7-1,Meyers Leonard,11.0,PF,Portland Trail Blazers,245.0,642560054efc1d753d15ab21
+25.0,Weber State,6-3,Damian Lillard,0.0,PG,Portland Trail Blazers,195.0,642560054efc1d753d15ab22
+24.0,Lehigh,6-4,C.J. McCollum,3.0,SG,Portland Trail Blazers,200.0,642560054efc1d753d15ab23
+23.0,Westchester CC,6-7,Luis Montero,44.0,SG,Portland Trail Blazers,185.0,642560054efc1d753d15ab24
+26.0,Duke,6-11,Mason Plumlee,24.0,C,Portland Trail Blazers,235.0,642560054efc1d753d15ab25
+30.0,Dayton,6-1,Brian Roberts,2.0,PG,Portland Trail Blazers,173.0,642560054efc1d753d15ab26
+20.0,Indiana,6-9,Noah Vonleh,21.0,PF,Portland Trail Blazers,240.0,642560054efc1d753d15ab27
+28.0,Clemson,6-8,Trevor Booker,33.0,PF,Utah Jazz,228.0,642560054efc1d753d15ab28
+23.0,Michigan,6-1,Trey Burke,3.0,PG,Utah Jazz,191.0,642560054efc1d753d15ab29
+24.0,Colorado,6-6,Alec Burks,10.0,SG,Utah Jazz,214.0,642560054efc1d753d15ab2a
+20.0,,6-6,Dante Exum,11.0,PG,Utah Jazz,190.0,642560054efc1d753d15ab2b
+24.0,Georgia Tech,6-10,Derrick Favors,15.0,PF,Utah Jazz,265.0,642560054efc1d753d15ab2c
+23.0,,7-1,Rudy Gobert,27.0,C,Utah Jazz,245.0,642560054efc1d753d15ab2d
+26.0,Butler,6-8,Gordon Hayward,20.0,SF,Utah Jazz,226.0,642560054efc1d753d15ab2e
+23.0,Duke,6-8,Rodney Hood,5.0,SG,Utah Jazz,206.0,642560054efc1d753d15ab2f
+28.0,,6-8,Joe Ingles,2.0,SF,Utah Jazz,226.0,642560054efc1d753d15ab30
+26.0,Dayton,6-6,Chris Johnson,23.0,SF,Utah Jazz,206.0,642560054efc1d753d15ab31
+20.0,Kentucky,6-10,Trey Lyles,41.0,PF,Utah Jazz,234.0,642560054efc1d753d15ab32
+26.0,Butler,6-3,Shelvin Mack,8.0,PG,Utah Jazz,203.0,642560054efc1d753d15ab33
+24.0,,6-1,Raul Neto,25.0,PG,Utah Jazz,179.0,642560054efc1d753d15ab34
+26.0,,7-3,Tibor Pleiss,21.0,C,Utah Jazz,256.0,642560054efc1d753d15ab35
+26.0,Kansas,7-0,Jeff Withey,24.0,C,Utah Jazz,231.0,642560054efc1d753d15ab36
+,,,,,,,,642560054efc1d753d15ab37

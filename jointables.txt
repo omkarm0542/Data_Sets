@@ -1,0 +1,15 @@
+create table members(
+member_id int auto_increment,
+name varchar(100),
+primary key(member_id)
+);
+
+create table committees(
+committee_id int auto_increment,
+name varchar(100),
+primary key (committee_id)
+);
+
+insert into members(name) values('John'), ('Jane'), ('Mary'), ('David'), ('Amelia');
+
+insert into committees(name) values ('John'),  ('Mary'), ('Joe'), ('Amelia');
